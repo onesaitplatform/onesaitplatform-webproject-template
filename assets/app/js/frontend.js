@@ -8,6 +8,7 @@ var FrontendController = function() {
 	var currentLanguage = ''; // loaded from template.
 	var currentYear = new Date().getFullYear();
 	var host = window.location.host || 'development-smartcities.cwbyminsait.com'; 
+	var apiToken = '00000000000001'; // ADD A VALID APITOKEN
 	
 	// CONTROLLER PRIVATE FUNCTIONS ---------------------------------------------------------
 	

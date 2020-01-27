@@ -284,7 +284,7 @@ var mainJson = {
 		}		
 	},
 	"footer": {
-		"footerCopyright": "2019 &copy; onesait Platform Frontend by Minsait",
+		"footerCopyright": "2020 &copy; onesait Platform Frontend",
 		"footerLinks": true,
 		"footerLinkAbout":  {"link":"https://www.onesaitplatformrevolution.com/","text":"About","visible": true},
 		"footerLinkPrivacy":{"link":"privacy.html","text":"Privacy","visible": true},
